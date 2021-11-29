@@ -1,7 +1,7 @@
 {
     "version": "2.0",
     "comment": "---Above version must be the same as data-pwa-version",
-    "comment": "---data-pwa-version can be found in index.html in the manifest tag",
+    "comment": "---data-pwa-version can be found in https://bebegig-1.blogspot.com/ in the manifest tag",
     "comment": "---if versions are not the same it will cause an update loop",
     "lang": "en",
     "name": "BebeGig",
