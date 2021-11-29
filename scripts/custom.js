@@ -6,7 +6,7 @@ var _0x962d = [
     "classList",
     "DOMContentLoaded",
     "use strict",
-    "Appkit",
+    "BebeGig",
     "https://bebegig-1.blogspot.com/",
     "./_service-worker.js",
     "menu-hider",
