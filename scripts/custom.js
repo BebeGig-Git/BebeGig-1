@@ -7,7 +7,7 @@ var _0x962d = [
     "DOMContentLoaded",
     "use strict",
     "BebeGig",
-    "https://bebegig-1.blogspot.com/",
+    "/",
     "./_service-worker.js",
     "menu-hider",
     "getElementsByClassName",
