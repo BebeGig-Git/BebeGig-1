@@ -1,5 +1,5 @@
 var _0x50fb = [
-    "BebeGIG",
+    "BebeGig",
     "",
     "install",
     "skipWaiting",
