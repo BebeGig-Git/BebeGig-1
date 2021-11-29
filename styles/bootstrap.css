@@ -12982,10 +12982,10 @@ body {
 }
 
 .page-title-fixed {
-    dislay: flex;
+    display: flex;
     position: fixed;
-    left: 0;
-    right: 0;
+    left: 0px;
+    right: 0px;
 }
 
 .page-title-over {
@@ -15763,7 +15763,6 @@ button {
     user-select: none;
     position: relative;
     display: block;
-    vertical-align: middle;
     font-size: 14px;
 }
 

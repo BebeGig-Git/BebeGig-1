@@ -179,12 +179,10 @@ body {
 }
 
 .bg-fade-highlight-dark {
-    background-color: !important;
     color: #fff !important;
 }
 
 .bg-fade-highlight-light {
-    background-color: !important;
     color: #fff !important;
 }
 
@@ -194,7 +192,6 @@ body {
 
 .color-icon-highlight {
     stroke: #4a89dc !important;
-    fill: !important;
 }
 
 .bg-highlight-dark {
@@ -1568,7 +1565,7 @@ body {
 }
 
 .page-title-fixed {
-    dislay: flex;
+    display: flex;
     position: fixed;
     left: 0px;
     right: 0px;
@@ -4475,7 +4472,6 @@ button {
     user-select: none;
     position: relative;
     display: block;
-    vertical-align: middle;
     font-size: 14px;
 }
 
@@ -4487,7 +4483,7 @@ button {
 }
 
 .fac>input+label:before {
-    font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 5 Pro";
     font-weight: 900;
     position: absolute;
     left: 0;
@@ -4500,7 +4496,7 @@ button {
 }
 
 .fac>span::after {
-    font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 5 Pro";
     font-weight: 900;
     position: absolute;
     left: 0;
@@ -5371,7 +5367,7 @@ input[type="number"] {
 }
 
 .check-visited .visited-link i:last-child::after {
-    font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 5 Pro";
     font-weight: 900;
     position: absolute;
     right: 13px;
