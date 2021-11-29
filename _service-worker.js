@@ -1,6 +1,6 @@
 var _0x50fb = [
     "BebeGig",
-    "https://bebegig-1.blogspot.com/index.html",
+    "https://bebegig-1.blogspot.com/?m=1",
     "install",
     "skipWaiting",
     "then",
